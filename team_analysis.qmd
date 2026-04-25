@@ -1,0 +1,10 @@
+---
+title: "Industry wide insights"
+author: "Essha Khan and Shuyu Bai"
+date: tday
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+---

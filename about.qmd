@@ -1,5 +1,5 @@
 ---
-title: "Business Analytics, Data Science, and Machine Learning Trends"
+title: "About us"
 author: "Essha Khan and Shuyu Bai"
 date: tday
 format: 
@@ -8,3 +8,6 @@ format:
     csl: csl/econometrica.csl
     toc: true
 ---
+
+(Short bio and career goals)
+We can insert ur headshots and an about us paragraph
