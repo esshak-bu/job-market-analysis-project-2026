@@ -1,0 +1,19 @@
+---
+title: "EDA Dashboards"
+author: "Essha Khan & Shuyu Bai"
+date: today
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+---
+![Software Skillls by Role Category](figures/SoftwareSkills_Dashboard.png)
+
+![Specialized Skills by Role Category](figures/SpecializedSkills_Dashboard.png)
+
+![Certifications by Role Category](figures/Certifications_Dashboard.png)
+
+![Soft Skills by Role Category](figures/SoftSkills_Dashboard.png)
+
+![](figures/EDA.png)
