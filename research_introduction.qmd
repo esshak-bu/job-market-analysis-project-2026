@@ -1,0 +1,38 @@
+---
+title: "Research Introduction: Analyzing Business Analytics, Data Science, and Machine Learning Trends "
+author: "Essha Khan & Shuyu Bai"
+date: today
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+---
+
+## **Introduction and Research Rationale**
+
+There is increasing discourse across public social platforms and professional forums about how data analyst roles are evolving. Shifting beyond creating dashboards and conducting traditional reporting, there is now a growing need for deeper business context, overlapping with data science and machine learning responsibilities. With the rapid advancement of artificial intelligence, many routine technical tasks are becoming automated. However, one critical area where AI still falls short is in understanding data within a meaningful business context—translating insights into strategic decisions. This shift raises important questions about how roles in business analytics, data science, and machine learning are changing, and what skills are truly valued in today’s job market.
+
+The rapid evolution of technology has significantly reshaped the modern workforce, particularly in data-driven fields. As organizations increasingly rely on data to inform decisions, the demand for professionals who can not only analyze data but also connect it to business strategy has grown substantially. This project explores job market trends in business analytics, data science, and machine learning using Lightcast job postings data, with the goal of understanding how demand, skills, and career pathways are evolving in 2024 and into the future.
+
+This topic is important because it sits at the intersection of technology, business strategy, and workforce development. Companies are not only investing in advanced tools and AI capabilities but are also prioritizing talent that can bridge the gap between technical outputs and business impact. As a result, roles such as data analysts, data scientists, and machine learning engineers are becoming more complex and interconnected. Understanding these trends is essential for students and job seekers aiming to position themselves effectively in a competitive and rapidly changing labor market.
+
+Several key trends make this a crucial area of study in 2024. First, the rise of artificial intelligence and automation has accelerated demand for advanced analytics and machine learning skills. Second, there is a growing emphasis on hybrid skill sets that combine technical expertise (such as Python, SQL, machine learning, and AI tools such as Claude, ChatGPT, and Microsoft Copilot) with business understanding and communication. Third, organizations are increasingly distinguishing between traditional analytics roles and more specialized AI-driven roles, leading to differences in required skills, experience, and compensation. Additionally, as a result of COVID-19, the expansion of remote and hybrid work has broadened access to opportunities while also increasing competition.
+
+Based on these trends, this analysis expects to find strong and sustained demand for data-related roles, particularly those involving advanced analytics and machine learning. It is anticipated that technical skills such as programming, data visualization, and statistical modeling will remain highly sought after, but that the ability to apply these skills in a business context will be a key differentiator. The analysis is also expected to reveal clear distinctions between AI-focused roles and traditional data roles in terms of salary, required experience, and skill complexity. Ultimately, the findings aim to provide actionable insights into which skills and career paths offer the greatest opportunities for success in the current job market.
+
+### **Demand : Skills Based Hiring & Hybrid Skills**
+
+### **Skills Shift : Skills Based Hiring & Hybrid Skills**
+
+A study by Kobets et al. (2024) provides a data-driven perspective on how skill requirements for data professionals are evolving in the labor market. Using a dataset of 3,744 job postings, the authors apply K-means clustering to identify four distinct role groupings - Data Analyst & Engineer, Data Platform Engineer, Data Science & Engineering Specialist, and Cloud Data Engineer, demonstrating that modern data roles are increasingly defined by combinations of skills rather than traditional job titles . A key finding of the study is that job titles do not consistently reflect required competencies, reinforcing the shift toward skills-based hiring and the importance of focusing on specific technical and analytical capabilities. Across clusters, in-demand skills include programming languages such as Python and SQL, data engineering and analysis techniques, cloud platforms (e.g., AWS and Azure), and machine learning, highlighting the growing need for hybrid skill sets that integrate analytics, engineering, and AI-related expertise. The paper also identifies a persistent gap between academic training and industry needs, emphasizing the importance of continuous upskilling and alignment between educational programs and labor market demands. Overall, this research supports the broader trend that data-driven roles are becoming more interdisciplinary, with increasing emphasis on adaptable, cross-functional skill sets in response to rapid technological advancement.
+
+### **Salary Trends : Salary Growth & Specialization**
+
+Salary trends in data science, artificial intelligence (AI), and machine learning (ML) demonstrate a clear pattern of consistent growth over time, driven by increasing demand and technological advancement. Empirical analysis shows that salaries in these fields have steadily increased between 2020 and 2022, reflecting the growing reliance of organizations on data-driven decision-making and automation capabilities . This upward trajectory highlights how firms are willing to invest more heavily in talent that can extract insights from large datasets and build intelligent systems. At the same time, salary differentiation is strongly influenced by specialization within the field. More advanced and niche roles such as Data Analytics Lead, Principal Data Engineer, and Cloud Data Architect command significantly higher salaries compared to more general or entry-level positions . This suggests that as the field matures, compensation is increasingly tied not just to participation in data-related roles, but to depth of expertise, technical specialization, and strategic impact within organizations. Overall, the literature indicates that both macro-level demand growth and micro-level specialization contribute to widening salary gaps across roles in the data ecosystem.
+
+### **AI Impact: Skills Based Hiring & Hybrid Skills**
+
+### **Gap: Skills Based Hiring & Hybrid Skills**
+
+## References
