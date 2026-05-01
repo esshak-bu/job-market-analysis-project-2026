@@ -1,7 +1,7 @@
 ---
 title: "Skills Gap Analysis & Career Plan Roadmap"
 author: "Essha Khan and Shuyu Bai"
-date: tday
+date: today
 format: 
   html:
     bibliography: references.bib
