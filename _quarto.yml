@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: "Project overview"
-      - href: data_analysis.ipynb
+      - href: data_analysis.qmd
         text: "Data Preparation, EDA, & ML Models"
       - href: Visualizations.qmd
         text: "EDA Visualizations"
